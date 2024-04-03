@@ -47,3 +47,5 @@ Este proyecto es una aplicación web desarrollada con React y Vite que permite a
     <td style="vertical-align: middle;"><a href="https://github.com/Solideomyers">Francisco A. Myers M.</a></td>
   </tr>
 </table>
+
+[![Deployed with Vercel](https://img.shields.io/badge/Deployed%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://kimche-rick-and-morty-zeta.vercel.app/)
